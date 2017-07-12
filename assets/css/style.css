@@ -1,0 +1,42 @@
+
+#header{
+	text-align: center;
+
+}
+
+body{
+	background-image: url(../images/stardust.png);
+	background-size: cover;
+
+}
+
+div.panel-default{
+	box-shadow: 0px 40px 50px #888888;
+}
+
+.jumbotron{
+	border-bottom: 10px solid #747F84;
+	
+
+}
+
+header{
+	background-color: white;
+}
+
+#clip{
+	padding-top: 40px;
+}
+
+td{
+	padding: 10px 15px;
+}
+
+
+th{
+	padding: 10px 15px;
+}
+
+tr{
+	border-bottom: 1px solid #ddd;
+}
